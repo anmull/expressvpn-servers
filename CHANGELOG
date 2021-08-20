@@ -1,0 +1,32 @@
+v20210820
+
+    * Initial version.
+
+    * Only 147 of the 150 server locations listed on the server feature grid
+      were available to download.
+
+        * Americas: 42 of 43 servers were available.
+            * "USA - Santa Monica" was unavailable.
+
+        * Asia Pacific: 38 of 39 servers were available.
+            * "Japan - Yokohama" was unavailable.
+
+        * Europe: 62 of 63 servers were available.
+            * "UK - Wembley" was unavailable.
+
+        * Middle East & Africa: 5 of 5 servers were available.
+
+    * ExpressVPN has 160 server locations, which leaves 10 unknown locations,
+      and 13 unknown server addresses.
+
+    * Possible missing server locations based on patterns:
+        * Hong Kong
+        * Hong Kong - 3
+        * India - Mumbai
+        * South Korea
+        * Taiwan
+        * Taiwan - 1
+        * Taiwan - 2
+        * USA - Los Angeles - 4
+        * USA - New Jersey
+        * USA - Tampa
